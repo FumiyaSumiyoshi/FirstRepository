@@ -1,7 +1,4 @@
 サル先生のGitコマンド
 add　変更をインデックスに登録する
-<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
 ああああああああああああああああ
->>>>>>> 1b62e015dfbe485a07b92e5a79d3dfc59d62aca0
