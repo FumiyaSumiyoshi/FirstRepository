@@ -3,6 +3,7 @@ h1 {
   color: white;
   font-size: 120px;
   text-shadow: 1px 1px 2px black;
+  line-height: 1.0;
 }
 
 p {
@@ -16,4 +17,10 @@ h2 {
   color: white;
   font-size: 20px;
   text-shadow: 1px 1px 2px black;
+
 }
+
+a:link {color: blanchedalmond;}
+a:visited{color: rgb(236, 171, 73);}
+a:hover{color: rgb(26, 143, 189);}
+a:active{color: rgb(5, 65, 114);}
